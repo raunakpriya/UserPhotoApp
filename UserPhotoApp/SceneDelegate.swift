@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  UserPhotoApp
 //
-//  Created by Harsh Raj on 10/02/23.
 //
 
 import UIKit
